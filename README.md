@@ -1,8 +1,8 @@
-<center>
+<div align="center">
     <img src="imgs/logo.png" alt="BlueArch" width="200" />
     <hr />
     ✨A Programming Language designed for any turing complete system.✨
-</center>
+</div>
 
 <br />
 
